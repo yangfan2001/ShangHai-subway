@@ -1,0 +1,54 @@
+/*构建所有表单的css样式*/
+#insertForm{
+    padding-top: 20px;
+}
+/*构建所有输入框以及其对应label的css样式*/
+#insertPosLabel{
+   float: left;
+   padding-top: 10px;
+}
+#insertPos{
+    
+}
+#insertNum{
+    
+}
+#deleteNumLabel{
+    padding-top: 10px;
+}
+#deleteNum{
+}
+#findNum{
+}
+#findNumLabel
+{
+    margin-top: 10px;
+}
+/*构建所有按钮对应的css样式*/
+#createButton{
+    
+}
+#clearButton{
+}
+#insertButton{
+    
+}
+#deleteButton{
+    
+}
+#findButton{
+  
+}
+/**/
+
+/*构建地铁展示图的css*/
+#subwayMap{
+    border: 1px;
+}
+#AddNodeButton{
+    margin-bottom: 10px;
+}
+.NavButton{
+    border: 2px;
+    stroke: black;  
+}
